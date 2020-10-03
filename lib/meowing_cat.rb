@@ -3,4 +3,3 @@ class Cat
   
 end
 
-Cat.new = meow
