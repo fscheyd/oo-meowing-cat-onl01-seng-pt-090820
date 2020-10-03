@@ -1,4 +1,4 @@
 class Cat
-  def 
+  attr_writer
   
 end
