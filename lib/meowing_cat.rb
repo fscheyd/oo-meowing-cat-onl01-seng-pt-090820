@@ -3,5 +3,6 @@ class Cat
   
   def cat_meow(name)
     when name puts meow
+  end
 end
 
